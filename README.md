@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-The "Email Spam Detection" project focuses on building a machine learning model to classify emails as spam or not spam.
+This project focuses on building a machine learning model to classify emails as spam or not spam.
 
 **Data Cleaning and Preprocessing:**
 
